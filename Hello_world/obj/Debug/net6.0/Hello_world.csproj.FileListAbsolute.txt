@@ -1,0 +1,15 @@
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\bin\Debug\net6.0\Hello_world.exe
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\bin\Debug\net6.0\Hello_world.deps.json
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\bin\Debug\net6.0\Hello_world.runtimeconfig.json
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\bin\Debug\net6.0\Hello_world.dll
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\bin\Debug\net6.0\Hello_world.pdb
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.csproj.AssemblyReference.cache
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.AssemblyInfoInputs.cache
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.AssemblyInfo.cs
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.csproj.CoreCompileInputs.cache
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.dll
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\refint\Hello_world.dll
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.pdb
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\Hello_world.genruntimeconfig.cache
+C:\Users\legio\Desktop\C#_Introduction\Hello_world\obj\Debug\net6.0\ref\Hello_world.dll
