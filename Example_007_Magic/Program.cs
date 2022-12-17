@@ -3,28 +3,28 @@
 // Console.WriteLine("+");
 
 int xa = 50;
-int ya = 0;
+int ya = 1;
 
-int xb = 0;
+int xb = 1;
 int yb = 40;
 
 int xc = 100;
 int yc = 40;
 
 Console.SetCursorPosition(xa, ya);
-Console.WriteLine("+");
+Console.WriteLine("A");
 
 Console.SetCursorPosition(xb, yb);
-Console.WriteLine("*");
+Console.WriteLine("B");
 
 Console.SetCursorPosition(xc, yc);
-Console.WriteLine(".");
+Console.WriteLine("C");
 
 int x = xa, y = xb;
 
 int count = 0;
 
-while(count < 10000000)
+while(count < 10000)
 {
     int what = new Random().Next(0, 3); // [0;3] 0 1 2
     if (what == 0) 
@@ -33,13 +33,13 @@ while(count < 10000000)
         y = (y + ya) / 2;
     }
 
-    if(what ==1)
+    if(what == 1)
     {
         x = (x + xb) / 2;
         y = (y + yb) / 2;
     }
 
-    if(what ==2)
+    if(what == 2)
     {
         x = (x + xc) / 2;
         y = (y + yc) / 2;
